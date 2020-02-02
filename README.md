@@ -1,6 +1,6 @@
 [![isaac-arnault.png](https://i.postimg.cc/C5pKYvzq/isaac-arnault.png)](https://postimg.cc/Q9SDJJg8)
 
-# PostgreSQL integration & setting up: one effective way
+# PostgreSQL integration & setting up: an effective way
     • Database: PostgreSQL
     • Programming : Shell (bash), SQL
     • Cloud: AWS
