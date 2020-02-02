@@ -1,9 +1,18 @@
 ### Part 1. Deploy PostgresSQL 12 on a Linux system using AWS EC2 (back)
 
 1. Log into your `AWS` console, https://signin.aws.amazon.com/.<br>
-In order to bolden the security access of my root account, I have `MFA` activated upon login.<br>
+In order to enhance the security access of my root account, I have `MFA` activated on my `AWS` account. I advise you to do so.<br>
 
-Once logged into your account, click on `EC2`.<br>
+<details>
+<summary>🔴 See hint</summary>
+<p>
+  
+Once logged into your account, click on `EC2`.
+
+[![isaacarnault-aws.png](https://i.postimg.cc/wvgmQTQP/isaacarnault-aws.png)](https://postimg.cc/f3qywsFj)
+
+</p>
+</details>
 
   > !! Please note that `AWS` has a new layout interface which is pretty cool !!
 
