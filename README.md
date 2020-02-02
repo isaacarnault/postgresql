@@ -20,9 +20,9 @@ Please fork it if you find this useful.
 This gist is structured into 3 parts.<br>
 You are invited to take each part one after the other.<br>
 
-<b>Part 1. Deploy PostgresSQL 12 on a Linux system using AWS EC2 (back)</b><br>
+<b>Part 1. Deploy PostgresSQL 12 on a Linux system using AWS EC2 (back-end)</b><br>
 <b>Part 2. Deploy pgadmin4 on your EC2 instance to administrate your database (front)</b><br>
-<b>Part 3. Start with PostgreSQL 12 on back-end (EC2) and check your tasks on front-end (pgadmin4)</b>
+<b>Part 3. Start with PostgreSQL 12 on back-end (EC2) and check your tasks on pgAdmin4 (front-end)</b>
 
 # Few words before we start
 `PostgreSQL` is a free and open-source powerful relational database management system (`RDBMS`) designed to handle many workloads, from single VMs to datawarehouses. <br> If you are a `Data Engineer` or `Data Architect` you may be familiar with `ACID` properties of relational databases. <br> Please note that `PostgreSQL` guarantees Atomicity, Consistency, Isolation and Durability of your databases.
