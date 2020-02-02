@@ -1,4 +1,4 @@
-[![postgresql-isaac-arnault-6.png](https://i.postimg.cc/8547ks5N/postgresql-isaac-arnault-6.png)](https://postimg.cc/cgKxXxwb)
+[![isaac-arnault.png](https://i.postimg.cc/C5pKYvzq/isaac-arnault.png)](https://postimg.cc/Q9SDJJg8)
 
 # PostgreSQL integration & setting up: one effective way
     • Database: PostgreSQL
