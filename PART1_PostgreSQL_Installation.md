@@ -253,7 +253,7 @@ $ psql
 <summary>🔴 See output</summary>
 <p>
   
-[![isaac-arnault-aws-12.png](https://i.postimg.cc/QtVCwVdz/isaac-arnault-aws-12.png)](https://postimg.cc/tZQ9VqPd)
+[![isaac-arnault-aws-30.png](https://i.postimg.cc/9Xp5YG9b/isaac-arnault-aws-30.png)](https://postimg.cc/hhf5SQpQ)
 
 </p>
 </details>
